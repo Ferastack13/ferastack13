@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Ferastack 👋
 
-<!--
-**Ferastack13/ferastack13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Automation Engineer | Problem Solver
+I build scalable web applications, automate business workflows, integrate APIs, and help businesses streamline their operations through technology.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Full Stack Web Development
+- API Integration
+- Workflow Automation
+- CRM Automation
+- Bug Fixing & Debugging
+- Database Design & Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Frontend
+React • Next.js • JavaScript • TypeScript • Tailwind CSS
+
+### Backend
+Node.js • Express.js • Python • REST APIs
+
+### Database
+MongoDB • PostgreSQL • MySQL
+
+### Tools
+Git • GitHub • Docker • Firebase • Vercel • n8n • Zapier • Make
+
+## 🌱 Currently Building
+- Business Automation Systems
+- CRM Integrations
+- AI-Powered Workflows
+- Full Stack Applications
+
+## 📫 Connect With Me
+- Twitter: https://x.com/ferastack13
+- Email: blueflamme5566@gmail.com
+
+## ⚡ About Me
+
+Passionate about building efficient solutions, automating repetitive tasks, and creating software that delivers real business value.
