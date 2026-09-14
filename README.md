@@ -1,4 +1,10 @@
-# Hi, I'm Ferastack 👋
+<img width="2149" height="731" alt="bc30acaa-fee6-43e0-bc82-5239ab0d6bb5" src="https://github.com/user-attachments/assets/97239c09-2458-43aa-8345-d9a9744d434b" />
+
+  <img src="YOUR_BANNER_URL_HERE" alt="Ferastack Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Ferastack</h1>
+<h3 align="center">Full Stack Developer | API Integrations | Automation Solutions</h3># Hi, I'm Ferastack 👋
 
 ### Full Stack Developer | Automation Engineer | Problem Solver
 I build scalable web applications, automate business workflows, integrate APIs, and help businesses streamline their operations through technology.
@@ -34,6 +40,7 @@ Git • GitHub • Docker • Firebase • Vercel • n8n • Zapier • Make
 ## 📫 Connect With Me
 - Twitter: https://x.com/ferastack13
 - Email: blueflamme5566@gmail.com
+- portfolio: https://ferastack-jbmm.vercel.app/
 
 ## ⚡ About Me
 
